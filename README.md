@@ -14,13 +14,18 @@ I'm passionate about applying AI and machine learning to solve real-world challe
 
 **Languages & Frameworks**
 ```
-Python • Java • C# • C • SQL
+Python • JavaScript • MATLAB • Java • C# • C • SQL
 ```
 
 **Machine Learning & AI**
 ```
 TensorFlow • Scikit-learn • NLTK • Pandas • NumPy
 OpenCV • PyTorch • Keras
+```
+
+**Data Visualization & Web**
+```
+D3.js • Observable • R • HTML/CSS
 ```
 
 **Cloud & Infrastructure**
@@ -37,15 +42,13 @@ MySQL • MS Office Suite
 
 ### 🚀 Featured Projects
 
-🏥 **[Healthcare Device Safety Analytics](link-to-repo)** - Automated ML pipeline processing FDA compliance documents with 85% accuracy using Google Gemini API and advanced NLP
+⚾ **[MLB Baseball Statistics Visualization](https://github.com/your-username/mlb-baseball-visualization)** - Interactive data visualization analyzing 2,500+ MLB players with D3.js and Observable
 
-🌸 **[Oxford Flower CNN Classifier](link-to-repo)** - Deep learning model achieving 95% accuracy across 17 flower categories using transfer learning on ResNet-50
+🌸 **[Oxford Flower CNN Classifier](https://github.com/your-username/Oxford-Flower-CNN-Classifier)** - Deep learning model achieving 95% accuracy across 17 flower categories using transfer learning on ResNet-50 architecture
 
-🤖 **[Multi-Agent Swarm Simulation](link-to-repo)** - Disaster response coordination system with 135+ experimental trials optimizing search and rescue strategies
+🤖 **[Multi-Agent Swarm Simulation](https://github.com/your-username/Multi-Agent-Swarm-Simulation)** - Disaster response coordination system with 135+ experimental trials optimizing search and rescue strategies using Python
 
-💬 **[Interactive NLP Conversational AI](link-to-repo)** - Intent classification system handling 17 domains with 83% accuracy and 65% ambiguity reduction
-
-🥽 **[IBM VR Skills Build Environment](link-to-repo)** - Immersive training platform with 7 interactive modules achieving 92% user completion rate
+🎬 **[NLP Movie Booking System](https://github.com/your-username/NLP-Movie-Booking)** - Natural language processing system for automated movie ticket booking with intelligent intent recognition
 
 ### 📊 Current Focus
 
@@ -59,6 +62,7 @@ MySQL • MS Office Suite
 - **2024 Men's National Trophy Winner** - University of Nottingham Performance Squash
 - **92% User Completion Rate** - VR training environment for IBM Skills Build
 - **60% Reduction** in manual review time through ML automation at ECRI
+- **Interactive Data Visualizations** - Featured projects on Observable platform
 
 ### 📫 Let's Connect
 
@@ -75,9 +79,10 @@ I'm actively seeking **Software Developer** and **Data Scientist** roles where I
 - Healthcare AI and medical informatics
 - Computer vision and deep learning
 - NLP and conversational AI systems
+- Data visualization and interactive analytics
 - Immersive technology development
 
 *Always excited to collaborate on impactful AI solutions in healthcare, safety, and education!*
 
 ---
-⚡ **Fun Fact**: When I'm not coding ML models, you can find me on the squash court - currently Men's Second Team Captain and former National Trophy Winner!
+⚡ **Fun Fact**: When I'm not coding ML models or creating data visualizations, you can find me on the squash court - currently Men's Second Team Captain and former National Trophy Winner!
