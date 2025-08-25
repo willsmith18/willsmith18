@@ -42,13 +42,13 @@ MySQL • MS Office Suite
 
 ### 🚀 Featured Projects
 
-⚾ **[MLB Baseball Statistics Visualization](https://github.com/your-username/mlb-baseball-visualization)** - Interactive data visualization analyzing 2,500+ MLB players with D3.js and Observable
+⚾ **[MLB Baseball Statistics Visualization](https://github.com/willsmith18/mlb-baseball-visualization)** - Interactive data visualization analyzing 2,500+ MLB players with D3.js and Observable
 
-🌸 **[Oxford Flower CNN Classifier](https://github.com/your-username/Oxford-Flower-CNN-Classifier)** - Deep learning model achieving 95% accuracy across 17 flower categories using transfer learning on ResNet-50 architecture
+🌸 **[Oxford Flower CNN Classifier](https://github.com/willsmith18/Oxford-Flower-CNN-Classifier)** - Deep learning model achieving 95% accuracy across 17 flower categories using transfer learning on ResNet-50 architecture
 
-🤖 **[Multi-Agent Swarm Simulation](https://github.com/your-username/Multi-Agent-Swarm-Simulation)** - Disaster response coordination system with 135+ experimental trials optimizing search and rescue strategies using Python
+🤖 **[Multi-Agent Swarm Simulation](https://github.com/willsmith18/Multi-Agent-Swarm-Simulation)** - Disaster response coordination system with 135+ experimental trials optimizing search and rescue strategies using Python
 
-🎬 **[NLP Movie Booking System](https://github.com/your-username/NLP-Movie-Booking)** - Natural language processing system for automated movie ticket booking with intelligent intent recognition
+🎬 **[NLP Movie Booking System](https://github.com/willsmith18/NLP-Movie-Booking)** - Natural language processing system for automated movie ticket booking with intelligent intent recognition
 
 ### 📊 Current Focus
 
